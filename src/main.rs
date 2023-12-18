@@ -1,5 +1,5 @@
 use clap::Parser;
-use guessing_game::guessing_game::guessing_game_function;
+use guessing_game::guessing_game_function;
 
 mod guessing_game;
 
